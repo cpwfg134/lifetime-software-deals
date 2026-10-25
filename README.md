@@ -220,3 +220,13 @@ Subscription software doesn't have to drain thousands monthly from your business
 [AppSumo](https://appsumo.com) stands out as the ideal starting point because their 60-day guarantee, extensive deal variety across all business categories, and decade-plus track record provide security and selection that newcomers to lifetime deals need. Their vetting process, active community, and customer-focused policies make them the safest bet for building your initial lifetime deal tool stack.
 
 Start with [AppSumo](https://appsumo.com) to replace your most expensive monthly subscriptions with lifetime alternatives, then explore specialized platforms when specific needs arise that require deeper tool catalogs or niche software categories.
+
+## After you buy: keeping the deals you own under control
+
+The platforms above are where lifetime deals get bought. The problems start a few months later, once you own twenty or more of them:
+
+- **Refund windows.** AppSumo prints a 60-day money-back guarantee on each deal page ([refund policy](https://help.appsumo.com/article/31-refund-policy)); other stores give 14 to 30 days, and StackSocial ends refund eligibility the moment you reveal a licence code. Put the deadline in a calendar the day you buy.
+- **Duplicates.** The second "AI writer" or "link shortener" in a stack is money gone unless you check what you already own before each purchase.
+- **Vendors going quiet.** A lifetime licence lasts as long as the vendor does; slowed updates and unanswered support are the usual early signs.
+
+A spreadsheet with purchase date, marketplace, refund deadline and category covers most of this. If the sheet stops scaling, [DealKeep](https://www.dealkeep.io) is a free lifetime deal manager and tracker (10 tools on the free plan) that imports AppSumo purchases, keeps every code and refund date in one place, alerts before a window closes and flags duplicates before you buy.
